@@ -1,3 +1,13 @@
 .msg-title{
-    margin-top: 10px;
+    margin-top: 10px
+}
+.textarea{
+    /* border: 1px red solid; */
+    margin-bottom: 20px;
+}
+.msg-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }

@@ -1,16 +1,20 @@
 import React from 'react'
 import "./Contact.css"
+import { Link } from 'react-router-dom'
 import Message from './Message'
 // import { Link } from 'react-router-dom'
 function Contact() {
     return (
         <div className='contact-container'>
+                  <div className='dawnload myid'>
+      <Link to="https://drive.google.com/file/d/1H0kcQhj_k2z18ObPxcoeX43YFkwPVMgP/view?usp=drivesdk"><button className='dbtn'>Dawnload Resume</button></Link>
+      </div>
             <div className='myid'>
                 <div>
-                    <img src='https://i.postimg.cc/JzmsjLQD/4202011-email-gmail-mail-logo-social-icon.png' height={"40px"} width={"40px"} alt='..' />arjunsaini.ssn@gmail.com
+                    <img src='https://i.postimg.cc/JzmsjLQD/4202011-email-gmail-mail-logo-social-icon.png'  alt='..' /><a href="mailto:arjunsaini.ssn@gmail.com">arjunsaini.ssn@gmail.com</a>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/ZK699R6z/1220365-whatsapp-chat-communication-message-phone-icon.png' height={"40px"} width={"40px"} alt='..' />+91 9027475036
+                    <img src='https://i.postimg.cc/ZK699R6z/1220365-whatsapp-chat-communication-message-phone-icon.png'  alt='..' />+91 9027475036
                 </div>
             </div>
             <div className='message-comp'>

@@ -16,8 +16,8 @@
     flex-direction: row;
     /* margin: 30px 60px; */
     border-top: 2px rgba(0, 0, 0, 0.541) solid;
-    padding: 50px;
-    margin:0px 60px;
+    padding: 40px 0px;
+    margin:0px 50px;
     /* height: 300px; */
   }
   
@@ -57,7 +57,7 @@
   }
 /* ----------------------------see btn----------------------------- */
 .see-projects{
-    padding:5px 120px;
+    padding:5px 100px;
     font-size: 15px;
     border-radius: 15px;
     border:2px solid rgba(0,255,132,1);;

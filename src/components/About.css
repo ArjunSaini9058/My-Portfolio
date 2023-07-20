@@ -8,7 +8,7 @@
 }
 /* -----------------table--------------- */
 .academics {
-    overflow-x: auto;
+    overflow-x: hidden;
     font-size: 20px;
 }
 
@@ -19,7 +19,7 @@
 
 .academics th,
 .academics td {
-    padding: 8px;
+    padding: 10px;
     text-align: left;
     border: 1px solid  rgba(0,255,132,1);
 }
@@ -29,10 +29,9 @@
 }
 @media screen and (max-width: 600px) {
     .academics {
-        overflow-x: auto;
+        /* overflow-x: auto; */
         font-size: 10px;
     }
-    
 
     
 }
