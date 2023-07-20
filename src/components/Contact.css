@@ -1,0 +1,38 @@
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.myid {
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+  margin-top: 20px;
+  color: white;
+}
+
+.myid div {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  padding: 10px;
+  perspective: 100px;
+  
+}
+
+.myid img {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+}
+
+.myid a {
+  text-decoration: none;
+  color: white;
+}
+.myid a:hover {
+    color: rgba(0,255,132,1);
+    cursor: pointer;
+    transform: translateZ(20px);
+  }

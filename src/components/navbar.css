@@ -1,0 +1,139 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.nav-container{
+    /* border: 2px red solid; */
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(18, 19, 19, 0.647);
+    padding: 10px;
+}
+/* ----------links............. */
+
+.links{
+    /* border: 2px green solid; */
+    display: flex;
+}
+.links div{
+    padding:10px 50px;
+}
+.Link-tag{
+    text-decoration: none;
+    color: white;   
+    font-weight:bolder;
+    font-size: 15px;
+}
+.Link-tag::after{
+    content: '';
+    display: block;
+    width: 0;
+    height: 3px;
+    /* background-color: orange; */
+    background-color: rgba(0,255,132,1);;
+    transition:0.5s ease-in-out;
+}
+.Link-tag:hover::after{
+    width: 100%;
+}
+/* -------------------------dawnload btn-------------- */
+.dbtn{
+    padding:5px 30px;
+    font-size: 15px;
+    border-radius: 4px;
+    border:2px solid rgba(0,255,132,1);
+    border: none;
+    color: black;
+    background-color:rgba(0,255,132,1);
+    font-size: 17px;
+}
+.dbtn::after{
+    content: '';
+    display: block;
+    width: 0;
+    height: 3px;
+    background-color:black;
+    transition:0.5s ease-in-out;
+}
+.dbtn:hover::after{
+    width: 100%;
+}
+
+
+/* toggle butoon */
+.nav-modal button{
+    background-color:transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 40px;
+}
+.nav-modal button:hover{
+    font-size:50px;
+    color: rgba(0,255,132,1);;
+}
+
+/* --------------mesia query--------------- */
+@media(max-width:900px) {
+    .links{
+        display: none;
+    }
+    .dawnload{
+        display: none;
+    }
+    .drope-links{
+        display: none;
+    }
+}
+@media(min-width:899px) {
+    .nav-modal{
+        display: none;
+    }
+    .toggle-link{
+        display: none;
+    }
+}
+
+/* ------------------media Query div------------- */
+.drope-links{
+    /* border: 2px green solid; */
+    display: flex;
+    /* display: none; */
+    flex-direction: column;
+    padding: 20px;
+    background-color: rgba(18, 19, 19, 0.647);
+}
+.drope-links div{
+    padding:10px;
+}
+.x{
+    align-self: flex-end;
+}
+.x button{
+    border: none;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+}
+.x button:hover{
+    color:rgba(0,255,132,1);;
+    font-size: 50px;
+}
+.drope-Link-tag{
+    text-decoration: none;
+    color: white;   
+}
+.drope-Link-tag::after{
+    content: '';
+    display: block;
+    width: 0;
+    height: 3px;
+    background-color: rgba(0,255,132,1);;
+    transition:0.5s ease-in-out;
+}
+.drope-Link-tag:hover::after{
+    width: 20%;
+}
+
+

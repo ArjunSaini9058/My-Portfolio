@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.first-container {
+  background-image: url("https://i.postimg.cc/3w68vJ8K/wallpaperflare-com-wallpaper.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* height: 500px; */
+  display: flex;
+  flex-direction: column;
+  justify-content:space-between;
+  border-bottom: 3px rgba(0, 255, 132, 0.377) dashed;
+  /* align-items: center; */
+}
+.box1{
+  color:white;
+  /* border: 2px red solid; */
+}
+.box2{
+  /* border: 2px blue solid; */
+  display: flex;
+  justify-content: space-around;
+}
+.content{
+  /* border: solid 2px white; */
+  margin-top: 100px;
+  margin-bottom: 100px;
+  color: white;
+}
+.name{
+  color: rgba(0,255,132,1);
+}
+.my-img{
+  /* border: 1px red solid; */
+  margin-top: 100px;
+  /* margin-bottom: -5px; */
+}
+
+@media(max-width:600px) {
+  .box2{
+    flex-direction: column;
+    padding-left: 30px;
+    /* align-items: center; */
+  }
+  .content{
+    margin-top: 10px;
+    margin-bottom: -20px;
+  }
+  .my-img{
+    margin-top: 0px;
+  }
+}
+.my-footer{
+  background-color: black;
+  text-align: center;
+  color: white;
+  padding: 10px;
+}
