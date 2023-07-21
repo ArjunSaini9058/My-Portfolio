@@ -11,10 +11,10 @@ function Contact() {
       </div>
             <div className='myid'>
                 <div>
-                    <img src='https://i.postimg.cc/JzmsjLQD/4202011-email-gmail-mail-logo-social-icon.png'  alt='..' /><a href="mailto:arjunsaini.ssn@gmail.com">arjunsaini.ssn@gmail.com</a>
+                    <img src='https://i.postimg.cc/vDRkpRxP/1-4-min.png'  alt='..' /><a href="mailto:arjunsaini.ssn@gmail.com">arjunsaini.ssn@gmail.com</a>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/ZK699R6z/1220365-whatsapp-chat-communication-message-phone-icon.png'  alt='..' />+91 9027475036
+                    <img src='https://i.postimg.cc/gcwJFv6R/1-1-min.png'  alt='..' />+91 9027475036
                 </div>
             </div>
             <div className='message-comp'>
@@ -22,16 +22,16 @@ function Contact() {
             </div>
             <div className='myid'>
                 <div>
-                    <img src='https://i.postimg.cc/JzmsjLQD/4202011-email-gmail-mail-logo-social-icon.png' alt='..' /><a href="mailto:arjunsaini.ssn@gmail.com">Gmail</a>
+                    <img src='https://i.postimg.cc/vDRkpRxP/1-4-min.png' alt='..' /><a href="mailto:arjunsaini.ssn@gmail.com">Gmail</a>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/TPNh8Wvg/317750-linkedin-icon.png' alt='..' /><a href="https://www.linkedin.com/in/arjun-saini007">LinkedIn</a>
+                    <img src='https://i.postimg.cc/5yFh8psq/317750-linkedin-icon-min.png' alt='..' /><a href="https://www.linkedin.com/in/arjun-saini007">LinkedIn</a>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/HWqcs5ct/4202098-github-code-developer-logo-icon.png' alt='..' /><a href="https://github.com/your-github-id">GitHub</a>
+                    <img src='https://i.postimg.cc/5yQD79yY/1-3-min.png' alt='..' /><a href="https://github.com/your-github-id">GitHub</a>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/hGth316K/3225191-app-instagram-logo-media-popular-icon.png' alt='..' /><a href="https://www.instagram.com/your-instagram-id">Instagram</a>
+                    <img src='https://i.postimg.cc/hjjkm1q0/1-2-min.png' alt='..' /><a href="https://www.instagram.com/your-instagram-id">Instagram</a>
                 </div>
             </div>
         </div>

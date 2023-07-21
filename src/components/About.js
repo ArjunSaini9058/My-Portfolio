@@ -35,71 +35,72 @@ function About() {
             <div><h4 className='sub-head'>Technical Competencies:-</h4></div>
             <div className='skills'>
                 <div>
-                    <img src='https://i.postimg.cc/3JLMBkcG/mern-stack.png' alt='...'/>
+                    <img src='https://i.postimg.cc/7hf29JzN/mern-stack-min.png' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/0jv3GBJk/HTML5-logo-and-wordmark-svg.png' alt='...'/>
+                    <img src='https://i.postimg.cc/nVkRwyDj/HTML5-logo-and-wordmark-svg-min.png' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/W37Y1KRZ/css.png' alt='...'/>
+                    <img src='https://i.postimg.cc/7L5rxxSW/css-min.png' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/yYp5RwDX/Java-Script-logo.png' alt='...'/>
+                    <img src='https://i.postimg.cc/VL2j7gD0/Java-Script-logo-min.png' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/NMtPYtnY/Mongo-DB-sm-logo-500x400-1-1.gif' alt='...'/>
+                    <img src='https://i.postimg.cc/xd68ZTnp/Mongo-DB-sm-logo-500x400-1-1-min.gif' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/vHT2G301/Express-JS.webp' alt='...'/>
+                    <img src='https://i.postimg.cc/qvqFZ2LF/express-js-min.png' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/tJSrhx4C/react.webp' alt='...'/>
+                    <img src='https://i.postimg.cc/qMMDz297/react-min.png' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/J7Pdw95V/nodejs-logo-1024x696.png' alt='...'/>
+                    <img src='https://i.postimg.cc/htfS2F2c/nodejs-logo-1024x696-min.png' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/X7rLRXvd/python-5326385.png' alt='...'/>
+                    <img src='https://i.postimg.cc/DZLvTqGZ/python-5326385-min.png' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/g08BfjNN/ISO-C-Logo-svg.png' alt='...'/>
+                    <img src='https://i.postimg.cc/pTMGgxC8/ISO-C-Logo-svg-min.png' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/FH2BW3gY/My-SQL-Logo.jpg' alt='...'/>
+                    <img src='https://i.postimg.cc/sfh7080P/My-SQL-Logo-min.jpg' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/3JLMBkcG/mern-stack.png' alt='...'/>
+                <img src='https://i.postimg.cc/7hf29JzN/mern-stack-min.png' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/0jv3GBJk/HTML5-logo-and-wordmark-svg.png' alt='...'/>
+                    <img src='https://i.postimg.cc/nVkRwyDj/HTML5-logo-and-wordmark-svg-min.png' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/W37Y1KRZ/css.png' alt='...'/>
+                    <img src='https://i.postimg.cc/7L5rxxSW/css-min.png' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/yYp5RwDX/Java-Script-logo.png' alt='...'/>
+                    <img src='https://i.postimg.cc/VL2j7gD0/Java-Script-logo-min.png' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/NMtPYtnY/Mongo-DB-sm-logo-500x400-1-1.gif' alt='...'/>
+                    <img src='https://i.postimg.cc/xd68ZTnp/Mongo-DB-sm-logo-500x400-1-1-min.gif' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/vHT2G301/Express-JS.webp' alt='...'/>
+                    <img src='https://i.postimg.cc/qvqFZ2LF/express-js-min.png' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/tJSrhx4C/react.webp' alt='...'/>
+                    <img src='https://i.postimg.cc/qMMDz297/react-min.png' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/J7Pdw95V/nodejs-logo-1024x696.png' alt='...'/>
+                    <img src='https://i.postimg.cc/htfS2F2c/nodejs-logo-1024x696-min.png' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/X7rLRXvd/python-5326385.png' alt='...'/>
+                    <img src='https://i.postimg.cc/DZLvTqGZ/python-5326385-min.png' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/g08BfjNN/ISO-C-Logo-svg.png' alt='...'/>
+                    <img src='https://i.postimg.cc/pTMGgxC8/ISO-C-Logo-svg-min.png' alt='...'/>
                 </div>
                 <div>
-                    <img src='https://i.postimg.cc/FH2BW3gY/My-SQL-Logo.jpg' alt='...'/>
+                    <img src='https://i.postimg.cc/sfh7080P/My-SQL-Logo-min.jpg' alt='...'/>
                 </div>
+            
             </div>
 
         </div>

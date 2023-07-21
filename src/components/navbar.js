@@ -7,7 +7,7 @@ function Navbar() {
     <>
     <div className='nav-container'>
       <div className='logo'>
-        <Link to='/'><img src='https://i.postimg.cc/BZr2qGRD/arjunlogo.png' alt='logo' height="40px" width="100px"/></Link>
+        <Link to='/'><img src='https://i.postimg.cc/3r4FQWWv/arjunlogo-min.png' alt='logo' height="40px" width="100px"/></Link>
       </div>
       <div className='links'>
         <div>

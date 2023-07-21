@@ -17,7 +17,7 @@ function Home() {
               Passionate MERN stack developer <br /> Creating dynamic web apps.</h4>
           </div>
           <div className='my-img'>
-            <img src="https://i.postimg.cc/cCh2Sr20/cxyrxydt.png" alt="Girl in a jacket" width="300" height="300" />
+            <img src={"https://i.postimg.cc/j575SppR/cxyrxydt-min.png"} alt="my-png" width="300" height="300" />
           </div>
 
         </div>

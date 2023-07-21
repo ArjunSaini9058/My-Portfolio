@@ -12,13 +12,13 @@ function Projects() {
         <div className='pro-img'>
           <Carousel>
             <div>
-              <img src={"https://i.postimg.cc/ncY636zv/addnote1.png"} alt="slide 1" />
+              <img src={"https://i.postimg.cc/gj4Mg06d/todo1-min.png"} alt="slide 1" />
             </div>
             <div>
-              <img src={"https://i.postimg.cc/3JKLxW8v/addnote2.png"} alt="slide 2" />
+              <img src={"https://i.postimg.cc/qvNmG4BV/todo2-min.png"} alt="slide 2" />
             </div>
             <div>
-              <img src={"https://i.postimg.cc/yYBG3vPW/addnote3.png"} alt="slide 3" />
+              <img src={"https://i.postimg.cc/kMyhJTYZ/todo3-min.png"} alt="slide 3" />
             </div>
           </Carousel>
         </div>
@@ -35,15 +35,15 @@ function Projects() {
           <h1>WeatherApp </h1><br />
           <h3>Objective:</h3><span>Created a weather web application provides weather report of all locations or countries.</span>
           <h3>Description:</h3><span>This website built using ReactJS and weather API. </span><br />
-          <button className='dbtn pro-btn'>Explore</button>
+          <a href="https://myweather-app-arjun.netlify.app/"><button className='dbtn pro-btn'>Explore</button></a>
         </div>
         <div className='pro-img'>
           <Carousel>
             <div>
-              <img src={"https://i.postimg.cc/jSMBbPy2/weather1.png"} alt="slide 1" />
+              <img src={"https://i.postimg.cc/R0fXjdng/weather1-min.png"} alt="slide 1" />
             </div>
             <div>
-              <img src={"https://i.postimg.cc/mgLKJ8zK/weather2.png"} alt="slide 2" />
+              <img src={"https://i.postimg.cc/1tQJPFGs/weather2-min.png"} alt="slide 2" />
             </div>
           </Carousel>
         </div>
@@ -53,13 +53,13 @@ function Projects() {
         <div className='pro-img'>
           <Carousel>
             <div>
-              <img src={"https://i.postimg.cc/fWHdYb7X/tesla1.png"} alt="slide 1" />
+              <img src={"https://i.postimg.cc/0jXpqRDP/tesla1-min.png"} alt="slide 1" />
             </div>
             <div>
-              <img src={"https://i.postimg.cc/25Pckwyk/tesla2.png"} alt="slide 2" />
+              <img src={"https://i.postimg.cc/Gtm09YNd/tesla2-min.png"} alt="slide 2" />
             </div>
             <div>
-              <img src={"https://i.postimg.cc/7YdTQQWZ/tesla3.png"} alt="slide 3" />
+              <img src={"https://i.postimg.cc/xdPN2VVh/tesla3-min.png"} alt="slide 3" />
             </div>
           </Carousel>
         </div>
@@ -83,13 +83,13 @@ function Projects() {
         <div className='pro-img'>
           <Carousel>
             <div>
-              <img src={"https://i.postimg.cc/0jJFgqvG/project2.png"} alt="slide 1" />
+              <img src={"https://i.postimg.cc/mkJdRHWd/project2-min.png"} alt="slide 1" />
             </div>
             <div>
-              <img src={"https://i.postimg.cc/Dy1fs9Gb/project1.jpg"} alt="slide 2" />
+              <img src={"https://i.postimg.cc/HLJWSGsb/project1-min.jpg"} alt="slide 2" />
             </div>
             <div>
-              <img src={"https://i.postimg.cc/bY7NZyZh/pro.png"} alt="slide 3" />
+              <img src={"https://i.postimg.cc/Hs7JLyCQ/pro-min.png"} alt="slide 3" />
             </div>
           </Carousel>
         </div>
