@@ -26,7 +26,7 @@ function Projects() {
           <h1>QuickNotes App</h1><br />
           <h3>Objective:</h3><span>This is a secure and efficient MERN application that allows users to register, login, and manage personal notes using CRUD operations.</span>
           <h3>Description:</h3><span>Built using MERN Stack with JWT authentication, password hashing.</span><br />
-          <button className='dbtn pro-btn'>Explore</button>
+          <a href="https://main--myquicknotesapp.netlify.app/"><button className='dbtn pro-btn'>Explore</button></a>
         </div>
       </div>
 
