@@ -24,7 +24,7 @@ function Navbar() {
         </div>
       </div>
       <div className='dawnload '>
-      <Link to="https://drive.google.com/file/d/1H0kcQhj_k2z18ObPxcoeX43YFkwPVMgP/view?usp=drivesdk"><button className='dbtn'>Dawnload CV</button></Link>
+      <Link to="https://drive.google.com/file/d/1yp-hFkd-3_86dK1vGFx76FH1zK9nCA88/view?usp=drive_link"><button className='dbtn'>Dawnload CV</button></Link>
       </div>
       {/* ------------media----------- */}
       <div className='nav-modal'>

@@ -7,7 +7,7 @@ function Contact() {
     return (
         <div className='contact-container'>
                   <div className='dawnload myid'>
-      <Link to="https://drive.google.com/file/d/1H0kcQhj_k2z18ObPxcoeX43YFkwPVMgP/view?usp=drivesdk"><button className='dbtn'>Dawnload Resume</button></Link>
+      <Link to="https://drive.google.com/file/d/1yp-hFkd-3_86dK1vGFx76FH1zK9nCA88/view?usp=drive_link"><button className='dbtn'>Dawnload Resume</button></Link>
       </div>
             <div className='myid'>
                 <div>
