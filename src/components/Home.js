@@ -22,11 +22,11 @@ function Home() {
 
         </div>
       </div>
-      <div className='second-container'>
-        <Projects />
-      </div>
       <div className='third-container'>
         <About />
+      </div>
+      <div className='second-container'>
+        <Projects />
       </div>
       <div className='fourth-container'>
         <Contact />
