@@ -1,9 +1,13 @@
 import React from 'react'
 import "./About.css"
+import Myinfo from './Myinfo'
 function About() {
     return (
         <div className='about-container'>
             <h1 className='main-title'>About Me</h1>
+            <div className='info-div'>
+                <Myinfo/>
+            </div>
             <div><h4 className='sub-head'>Academic Background:-</h4></div>
             <div className='academics'>
                 <table>

@@ -1,0 +1,32 @@
+/* Myinfo-container styles */
+.Myinfo-container {
+    display: flex;
+    padding: 50px;
+  }
+  
+
+  .img-div {
+    display:flex;
+    align-self: center;
+    /* border: 2px solid red; */
+    min-height: 480px;
+    min-width:400px;
+    background-image: url('./img/myimg.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  
+
+  .myinfo-div {
+    /* border: 2px solid green; */
+    padding: 20px; 
+    font-size: small;
+  }
+  
+
+  @media (max-width: 768px) {
+    .Myinfo-container {
+      flex-direction: column; 
+    }
+  }
+  

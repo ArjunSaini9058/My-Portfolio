@@ -5,15 +5,15 @@
 }
 
 .first-container {
-  background-image: url("https://i.postimg.cc/BZXMZM7t/wallpaperflare-com-wallpaper-min.jpg");
-  background-size: cover;
+  /* background-image: url("https://i.postimg.cc/BZXMZM7t/wallpaperflare-com-wallpaper-min.jpg"); */
+  background: var(--gray-dark-default, #030712);
+  /* background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat; */
   /* height: 500px; */
   display: flex;
   flex-direction: column;
   justify-content:space-between;
-  border-bottom: 3px rgba(0, 255, 132, 0.377) dashed;
   /* align-items: center; */
 }
 .box1{
@@ -35,9 +35,14 @@
   color: rgba(0,255,132,1);
 }
 .my-img{
+  background-image:url('./img/arjunaa.png');
+  height: 270px;
+  width: 300px;
   /* border: 1px red solid; */
   margin-top: 100px;
-  /* margin-bottom: -5px; */
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-bottom: 100px;
 }
 
 @media(max-width:600px) {
@@ -51,7 +56,7 @@
     margin-bottom: -20px;
   }
   .my-img{
-    margin-top: 0px;
+    margin-top: 20px;
   }
 }
 .my-footer{
@@ -59,4 +64,13 @@
   text-align: center;
   color: white;
   padding: 10px;
+}
+.second-container{
+  margin-top: 50px;
+}
+.third-container{
+  margin-top: 50px;
+}
+.fourth-container{
+  margin-top: 50px;
 }

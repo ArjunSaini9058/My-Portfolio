@@ -10,6 +10,7 @@
 .academics {
     overflow-x: hidden;
     font-size: 20px;
+    background: var(--gray-dark-200, #374151);
 }
 
 .academics table {
@@ -22,10 +23,11 @@
     padding: 10px;
     text-align: left;
     border: 1px solid  rgba(0,255,132,1);
+    
 }
 .sub-head{
     color: rgba(0,255,132,1);
-    padding-top: 15px;
+    padding-top: 30px;
 }
 @media screen and (max-width: 600px) {
     .academics {
@@ -41,6 +43,7 @@
     /* flex-wrap: wrap; */
     justify-content: center;
     animation: scroll 40s linear infinite;
+    background: var(--gray-dark-default, #030712);
     /* justify-items: center; */
 }
 @keyframes scroll{

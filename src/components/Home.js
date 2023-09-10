@@ -13,13 +13,11 @@ function Home() {
         </div>
         <div className='box2'>
           <div className='content'>
-            <h1 className='name'>Hi! I'M <br /> ARJUN SAINI</h1> <br /><h4>
-              Passionate MERN stack developer <br /> Creating dynamic web apps.</h4>
+            <h1 className='name'>Hi! I'M <br /> ARJUN SAINI</h1> <br /><h6>
+              Passionate MERN Stack Enthusiast <br /> Creating dynamic web apps.</h6>
           </div>
           <div className='my-img'>
-            <img src={"https://i.postimg.cc/j575SppR/cxyrxydt-min.png"} alt="my-png" width="300" height="300" />
           </div>
-
         </div>
       </div>
       <div className='third-container'>
